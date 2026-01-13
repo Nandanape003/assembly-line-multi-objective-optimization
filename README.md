@@ -1,0 +1,2 @@
+
+This project focuses on applying multi-objective optimization techniques to an assembly line manufacturing system. It demonstrates how conflicting objectives such as throughput, defect rate, and operating cost can be modeled, optimized, and analyzed using Python.
